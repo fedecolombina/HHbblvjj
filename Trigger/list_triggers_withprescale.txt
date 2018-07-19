@@ -24,7 +24,7 @@ n       HLT Path Name   Index 0 Emergency       Index 1 2.2e34  Index 2 2.0e34  
 19      DST_CaloJet40_CaloBTagScouting_v14 (2110492)            0       3       3       3       3       3       3       3       3       3       3       3       
 20      DST_CaloJet40_CaloScouting_PFScouting_v15 (2110491)     0       6       6       6       6       6       6       6       6       6       6       6       
 21      DST_DoubleMu1_noVtx_CaloScouting_v2 (2110500)           0       1       1       1       1       1       1       1       1       1       1       1     
-22      DST_DoubleMu3_noVtx_CaloScouting_Monitoring_v6 (2110498)        0       1       1       1       1       1       1       1       1       1       1       1       
+22      DST_DoubleMu3_noVtx_CaloScouting_Monitoring_v6          0       1       1       1       1       1       1       1       1       1       1       1       
 23      DST_DoubleMu3_noVtx_CaloScouting_v6 (2110499)           0       1       1       1       1       1       1       1       1       1       1       1       
 24      DST_DoubleMu3_noVtx_Mass10_PFScouting_v3 (2110501)      0       1       1       1       1       1       1       1       1       1       1       1       
 25      DST_HT250_CaloBTagScouting_v10 (2110485)                0       1       1       1       1       1       1       1       1       1       1       1       
