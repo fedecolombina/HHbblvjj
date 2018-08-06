@@ -46,16 +46,6 @@ HLT_Mu55_v*							L1_SingleMu22
 
 HLT_TkMu100_v*							L1_SingleMu22
 
-HLT_QuadPFJet103_88_75_15_DoublePFBTagDeepCSV_1p3_7p7_VBF1_v*	L1_TripleJet_95_75_65_DoubleJet_75_65_er2p5
-
-HLT_QuadPFJet103_88_75_15_PFBTagDeepCSV_1p3_VBF2_v*		L1_TripleJet_95_75_65_DoubleJet_75_65_er2p5
-
-HLT_QuadPFJet105_88_76_15_PFBTagDeepCSV_1p3_VBF2_v*		L1_TripleJet_100_80_70_DoubleJet_80_70_er2p5
-
-HLT_QuadPFJet111_90_80_15_DoublePFBTagDeepCSV_1p3_7p7_VBF1_v*	L1_TripleJet_105_85_75_DoubleJet_85_75_er2p5
-
-HLT_QuadPFJet111_90_80_15_PFBTagDeepCSV_1p3_VBF2_v*		L1_TripleJet_105_85_75_DoubleJet_85_75_er2p5
-
 HLT_PFJet500_v*							L1_SingleJet180
 
 HLT_PFJetFwd450_v*						L1_SingleJet180
